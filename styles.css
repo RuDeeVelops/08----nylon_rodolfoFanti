@@ -9,9 +9,12 @@ body {
 
 .main-container {
   display: flex;
-  width: 50%;
-  max-width: 600px;
   aspect-ratio: 1/1;
+  /* little hack to make the container responsive and squared. We use vw for the size of the square and we give it a max width/height using vh (height of the viewport) so it always resizes vertically too. */
+  width: 50vw;
+  height: 50vw;
+  max-width: 80vh;
+  max-height: 80vh;
   margin: 0 auto;
   padding: 10px;
   background-color: #2c2c2e;
