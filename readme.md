@@ -6,7 +6,9 @@
 
 ### Tech stack: `css` `html`
 
-### Live link:
+### Live link: https://codepen.io/3DRudy/pen/RwdEQEZ
+
+<br>
 
 <p align="center">
     <img src="./nylon_rodolfoFanti.gif" alt="Alt text" style="max-width: 400px;">
