@@ -4,7 +4,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background: radial-gradient(circle, #e0e0e0, #707070);
+  background: radial-gradient(circle, #fdfdfd, #b1b1b1);
 }
 
 .main-container {
